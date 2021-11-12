@@ -142,7 +142,7 @@ latex_elements = {
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
     (master_doc, 'AzkabanDoc.tex', u'Azkaban Documentation',
-     u'Liang', 'manual'),
+     u'Liang', 'manuals'),
 ]
 
 
